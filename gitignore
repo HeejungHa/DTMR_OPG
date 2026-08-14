@@ -1,0 +1,20 @@
+# Raw and processed data
+data/
+
+# Analysis outputs
+results/
+
+# Local environment / authentication
+.Renviron
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
